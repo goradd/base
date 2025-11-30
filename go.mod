@@ -1,4 +1,4 @@
-module base
+module github.com/goradd/base
 
 go 1.25.4
 
